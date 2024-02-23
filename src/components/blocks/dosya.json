@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_blocks_dosyas",
+  "info": {
+    "displayName": "Dosya",
+    "icon": "cog"
+  },
+  "options": {},
+  "attributes": {
+    "Icerik": {
+      "type": "component",
+      "repeatable": true,
+      "component": "content-for-blocks.dosya-icerik"
+    }
+  }
+}

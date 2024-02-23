@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_blocks_resim_banners",
+  "info": {
+    "displayName": "Resim Banner",
+    "icon": "picture"
+  },
+  "options": {},
+  "attributes": {
+    "Resim": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_blocks_yatay_vitrins",
+  "info": {
+    "displayName": "Yatay Vitrin",
+    "icon": "apps",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Baslik": {
+      "type": "string"
+    },
+    "Aciklama": {
+      "type": "richtext"
+    },
+    "Icerik": {
+      "type": "component",
+      "repeatable": true,
+      "component": "content-for-blocks.yatay-vitrin-icerigi"
+    }
+  }
+}

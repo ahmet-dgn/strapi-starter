@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_blocks_kutu_banner_alani",
+  "info": {
+    "displayName": "Kutu Banner Alanı",
+    "icon": "dashboard"
+  },
+  "options": {},
+  "attributes": {
+    "Icerik": {
+      "type": "component",
+      "repeatable": true,
+      "component": "content-for-blocks.kutu-banner-icerik"
+    },
+    "Baslik": {
+      "type": "string"
+    },
+    "Aciklama": {
+      "type": "text"
+    }
+  }
+}

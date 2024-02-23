@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_content_for_blocks_dosya_iceriks",
+  "info": {
+    "displayName": "DosyaIcerik",
+    "icon": "archive"
+  },
+  "options": {},
+  "attributes": {
+    "Baslik": {
+      "type": "string"
+    },
+    "VitrinResim": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Dosya": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

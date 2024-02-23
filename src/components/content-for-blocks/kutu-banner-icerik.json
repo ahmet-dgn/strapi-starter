@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_content_for_blocks_kutu_banner_iceriks",
+  "info": {
+    "displayName": "KutuBannerIcerik",
+    "icon": "crown"
+  },
+  "options": {},
+  "attributes": {
+    "Baslik": {
+      "type": "string"
+    },
+    "Resim": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Link": {
+      "type": "string"
+    }
+  }
+}

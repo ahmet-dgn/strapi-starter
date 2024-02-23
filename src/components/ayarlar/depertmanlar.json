@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_ayarlar_depertmanlars",
+  "info": {
+    "displayName": "Depertmanlar",
+    "icon": "calendar"
+  },
+  "options": {},
+  "attributes": {
+    "Depertmanlar": {
+      "type": "string"
+    },
+    "Telefon": {
+      "type": "string"
+    },
+    "EPosta": {
+      "type": "string"
+    },
+    "Yetkili": {
+      "type": "string"
+    }
+  }
+}

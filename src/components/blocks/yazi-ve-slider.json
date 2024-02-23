@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_blocks_yazi_ve_sliders",
+  "info": {
+    "displayName": "YazıVeSlider",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Baslik": {
+      "type": "string"
+    },
+    "Aciklama": {
+      "type": "blocks"
+    },
+    "Resim": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "collectionName": "components_blocks_heroes",
+  "info": {
+    "displayName": "Hero",
+    "icon": "crown",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "ImagePosition": {
+      "type": "enumeration",
+      "enum": [
+        "Left",
+        "Right"
+      ],
+      "default": "Left"
+    },
+    "Title": {
+      "type": "string"
+    },
+    "SubTitle": {
+      "type": "string"
+    },
+    "OverLineText": {
+      "type": "string"
+    },
+    "ButtonName": {
+      "type": "string"
+    },
+    "Link": {
+      "type": "string"
+    },
+    "Image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "Description": {
+      "type": "richtext"
+    }
+  }
+}

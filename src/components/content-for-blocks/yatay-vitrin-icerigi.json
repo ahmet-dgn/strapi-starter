@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_content_for_blocks_yatay_vitrin_icerigis",
+  "info": {
+    "displayName": "Yatay Vitrin İçeriği",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "Baslik": {
+      "type": "string"
+    },
+    "Aciklama": {
+      "type": "text"
+    },
+    "Link": {
+      "type": "string"
+    },
+    "Resim": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_ayarlar_iletisim_bilgileris",
+  "info": {
+    "displayName": "İletişim Bilgileri",
+    "icon": "key",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Baslik": {
+      "type": "string"
+    },
+    "Adres": {
+      "type": "text"
+    },
+    "Telefon": {
+      "type": "string"
+    },
+    "EPosta": {
+      "type": "string"
+    },
+    "GoogleMapsLink": {
+      "type": "text"
+    }
+  }
+}
